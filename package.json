@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
     "dotenv": "^17.2.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "himalaya": "^1.1.1",
+    "html-to-json-parser": "^2.0.1",
+    "pm2": "^6.0.8"
   }
 }
